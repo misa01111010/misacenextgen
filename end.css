@@ -1,0 +1,91 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.15752-9/396688873_366278849305193_1147762340948903765_n.png?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeEfYu54Jwje815mGTC91mWpF4fBMTc_LzQXh8ExNz8vNE1GMmbbjeKrM4GGaTkw58Bz0RdnVXkGNFxZL-jH1MrL&_nc_ohc=lpLMD8ZR0TYAX9KrXW0&_nc_ht=scontent.fbkk5-6.fna&oh=03_AdQGIFQP6pyAPf6xnf9jCI9fHA1zVb1tIZuZ1RUvtqy9Hw&oe=65803B88');
+    background-color: #ffecd9; /* Light peach background color */
+}
+
+header{
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+button {
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: #deb1b9; /* Pink button background color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1em;
+}
+
+button:hover {
+    background-color: #ff69b4; /* Hot pink button background color on hover */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #3498db;
+    text-align: center;
+    font-size:45px;
+}
+
+h3 {
+    color: #3498db;
+    text-align: center;
+    font-size:30px;
+}
+
+
+.next-button {
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: #deb1b9; /* Pink button background color */
+    color: white;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+}
+.next-button:hover {
+    background-color: #ff69b4; /* Hot pink button background color on hover */
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #a17bbd;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: x-large;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
+
+.text {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
